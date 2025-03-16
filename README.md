@@ -4,9 +4,9 @@
 
 OBS: O código das questões abaixo foi desenvolvido na linguagem Java com Programação Orientada a Objetos, e, com teste unitário da Classe "Aluno" para uma melhor cobertura dos cenários em que se refere ao cálculo de notas. 
 
-A estrutura da pasta/código com as respostas dos pacotes solicitados se encontram na rota: **src > main > java > questao01**, (cor verde);
+A estrutura da pasta/código com as respostas dos pacotes solicitados se encontram na rota/pasta: **AnneIzabelle > src > main > java > questao01**, (cor verde);
 
-A estrutura do teste unitário da classe "Aluno" se encontra na rota: **src > test > java > AlunoTest**, (cor vermelha) vide imagem abaixo.
+A estrutura do teste unitário da classe "Aluno" se encontra na rota/pasta: **AnneIzabelle > src > test > java > AlunoTest**, (cor vermelha) vide imagem abaixo.
 
 ![Image](https://github.com/user-attachments/assets/bca24ac7-7704-4649-bcb9-494ae13764d1)
 
