@@ -1,11 +1,16 @@
 # Nota de aula 01 - Java/POO
-## Professora: Fernanda
 ## Aluna: Anne Izabelle
 ## Curso: Ciência da Computação
 
 OBS: O código das questões abaixo foi desenvolvido na linguagem Java com Programação Orientada a Objetos, e, com teste unitário da Classe "Aluno" para uma melhor cobertura dos cenários em que se refere ao cálculo de notas. 
 
-Questões:
+A estrutura da pasta/código com as respostas dos pacotes solicitados se encontram na rota: **src > main > java > questao01**, (cor verde);
+
+A estrutura do teste unitário da classe "Aluno" se encontra na rota: **src > test > java > AlunoTest**, (cor vermelha) vide imagem abaixo.
+
+![Image](https://github.com/user-attachments/assets/bca24ac7-7704-4649-bcb9-494ae13764d1)
+
+## Questões:
 
 1) Defina uma classe Aluno que faça o cadastro do nome e das 3 notas e a operação do cálculo
 da média. Ao final, exiba (na classe principal) a média. Em seguida, informe se ele está
