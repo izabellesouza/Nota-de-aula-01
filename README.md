@@ -3,7 +3,7 @@
 ## Aluna: Anne Izabelle
 ## Curso: Ciência da Computação
 
-OBS: O código das questões abaixo foi desenvolvido na linguagem Java com Programação Orientada a Objetos, e, com teste unitário da Classe "Aluno" para melhor uma melhor cobertura dos cenários que se refere as notas dos alunos.
+OBS: O código das questões abaixo foi desenvolvido na linguagem Java com Programação Orientada a Objetos, e, com teste unitário da Classe "Aluno" para uma melhor cobertura dos cenários em que se refere ao cálculo de notas. 
 
 Questões:
 
